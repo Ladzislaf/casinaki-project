@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/casinaki-project/static/css/main.3a41be98.css",
-    "main.js": "/casinaki-project/static/js/main.e546bee7.js",
-    "static/media/Mono45Headline-Regular.ttf": "/casinaki-project/static/media/Mono45Headline-Regular.ddf09c0f0247bfd93ebf.ttf",
-    "static/media/Mono45Headline-Regular.woff": "/casinaki-project/static/media/Mono45Headline-Regular.7996e80ddd892ff7e484.woff",
-    "static/media/Mono45Headline-Regular.woff2": "/casinaki-project/static/media/Mono45Headline-Regular.aa3cd04e9ef7d2af352b.woff2",
-    "index.html": "/casinaki-project/index.html",
-    "main.3a41be98.css.map": "/casinaki-project/static/css/main.3a41be98.css.map",
-    "main.e546bee7.js.map": "/casinaki-project/static/js/main.e546bee7.js.map"
+    "main.css": "/casinaki-project/client/static/css/main.fc466737.css",
+    "main.js": "/casinaki-project/client/static/js/main.e546bee7.js",
+    "static/media/Mono45Headline-Regular.ttf": "/casinaki-project/client/static/media/Mono45Headline-Regular.ddf09c0f0247bfd93ebf.ttf",
+    "static/media/Mono45Headline-Regular.woff": "/casinaki-project/client/static/media/Mono45Headline-Regular.7996e80ddd892ff7e484.woff",
+    "static/media/Mono45Headline-Regular.woff2": "/casinaki-project/client/static/media/Mono45Headline-Regular.aa3cd04e9ef7d2af352b.woff2",
+    "index.html": "/casinaki-project/client/index.html",
+    "main.fc466737.css.map": "/casinaki-project/client/static/css/main.fc466737.css.map",
+    "main.e546bee7.js.map": "/casinaki-project/client/static/js/main.e546bee7.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a41be98.css",
+    "static/css/main.fc466737.css",
     "static/js/main.e546bee7.js"
   ]
 }
