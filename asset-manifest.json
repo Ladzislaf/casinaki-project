@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/casinaki-project/static/css/main.228cac4c.css",
+    "main.css": "/casinaki-project/static/css/main.93bef49c.css",
     "main.js": "/casinaki-project/static/js/main.10b9edd1.js",
     "static/media/Mono45Headline-Regular.ttf": "/casinaki-project/static/media/Mono45Headline-Regular.ddf09c0f0247bfd93ebf.ttf",
     "static/media/Mono45Headline-Regular.woff": "/casinaki-project/static/media/Mono45Headline-Regular.7996e80ddd892ff7e484.woff",
     "static/media/Mono45Headline-Regular.woff2": "/casinaki-project/static/media/Mono45Headline-Regular.aa3cd04e9ef7d2af352b.woff2",
     "index.html": "/casinaki-project/index.html",
-    "main.228cac4c.css.map": "/casinaki-project/static/css/main.228cac4c.css.map",
+    "main.93bef49c.css.map": "/casinaki-project/static/css/main.93bef49c.css.map",
     "main.10b9edd1.js.map": "/casinaki-project/static/js/main.10b9edd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.228cac4c.css",
+    "static/css/main.93bef49c.css",
     "static/js/main.10b9edd1.js"
   ]
 }
