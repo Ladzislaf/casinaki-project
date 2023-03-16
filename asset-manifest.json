@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/casinaki-project/static/css/main.66a0b2b2.css",
-    "main.js": "/casinaki-project/static/js/main.ad13287d.js",
-    "static/media/miner.png": "/casinaki-project/static/media/miner.c2128408d261cd117923.png",
+    "main.js": "/casinaki-project/static/js/main.ccfff863.js",
+    "static/media/miner.png": "/casinaki-project/static/media/miner.11943151184a60bab159.png",
     "static/media/Mono45Headline-Regular.ttf": "/casinaki-project/static/media/Mono45Headline-Regular.ddf09c0f0247bfd93ebf.ttf",
     "static/media/money.jpg": "/casinaki-project/static/media/money.a731979203e72843a957.jpg",
     "static/media/bomb.png": "/casinaki-project/static/media/bomb.cf752ebb8629c42da780.png",
@@ -12,10 +12,10 @@
     "static/media/hilo.svg": "/casinaki-project/static/media/hilo.abd84910dbd6639957bdb35db400ca5b.svg",
     "index.html": "/casinaki-project/index.html",
     "main.66a0b2b2.css.map": "/casinaki-project/static/css/main.66a0b2b2.css.map",
-    "main.ad13287d.js.map": "/casinaki-project/static/js/main.ad13287d.js.map"
+    "main.ccfff863.js.map": "/casinaki-project/static/js/main.ccfff863.js.map"
   },
   "entrypoints": [
     "static/css/main.66a0b2b2.css",
-    "static/js/main.ad13287d.js"
+    "static/js/main.ccfff863.js"
   ]
 }
