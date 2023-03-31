@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/casinaki-project/static/css/main.5da696b3.css",
-    "main.js": "/casinaki-project/static/js/main.93a325f8.js",
+    "main.css": "/casinaki-project/static/css/main.3293495a.css",
+    "main.js": "/casinaki-project/static/js/main.e5c81a2f.js",
+    "static/media/sixth.png": "/casinaki-project/static/media/sixth.66f5a99dcbe09cd4d695.png",
+    "static/media/fifth.png": "/casinaki-project/static/media/fifth.4c23ccb8b6a517064e0d.png",
+    "static/media/fourth.png": "/casinaki-project/static/media/fourth.c21a82afd76c12a2915d.png",
+    "static/media/third.png": "/casinaki-project/static/media/third.6080ad59677f33a9238f.png",
+    "static/media/second.png": "/casinaki-project/static/media/second.65410e45cbfd2fa79b7c.png",
+    "static/media/first.png": "/casinaki-project/static/media/first.81a92461a0aad266ad7f.png",
     "static/media/Mono45Headline-Regular.ttf": "/casinaki-project/static/media/Mono45Headline-Regular.ddf09c0f0247bfd93ebf.ttf",
     "static/media/money.jpg": "/casinaki-project/static/media/money.a731979203e72843a957.jpg",
     "static/media/bomb.png": "/casinaki-project/static/media/bomb.cf752ebb8629c42da780.png",
     "static/media/Mono45Headline-Regular.woff": "/casinaki-project/static/media/Mono45Headline-Regular.7996e80ddd892ff7e484.woff",
     "static/media/Mono45Headline-Regular.woff2": "/casinaki-project/static/media/Mono45Headline-Regular.aa3cd04e9ef7d2af352b.woff2",
-    "static/media/dice.svg": "/casinaki-project/static/media/dice.6c6ed18fb91415335091d3ca7354475f.svg",
-    "static/media/hilo.svg": "/casinaki-project/static/media/hilo.abd84910dbd6639957bdb35db400ca5b.svg",
+    "static/media/dice.svg": "/casinaki-project/static/media/dice.5a322c3fa14d591ffe4701f0808edee8.svg",
+    "static/media/hilo.svg": "/casinaki-project/static/media/hilo.ef8d6890a9cc669a343f9a347abe8782.svg",
     "static/media/miner.svg": "/casinaki-project/static/media/miner.7c7bdb736bbedf836ff53c50d87ad3d7.svg",
     "index.html": "/casinaki-project/index.html",
-    "main.5da696b3.css.map": "/casinaki-project/static/css/main.5da696b3.css.map",
-    "main.93a325f8.js.map": "/casinaki-project/static/js/main.93a325f8.js.map"
+    "main.3293495a.css.map": "/casinaki-project/static/css/main.3293495a.css.map",
+    "main.e5c81a2f.js.map": "/casinaki-project/static/js/main.e5c81a2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5da696b3.css",
-    "static/js/main.93a325f8.js"
+    "static/css/main.3293495a.css",
+    "static/js/main.e5c81a2f.js"
   ]
 }
